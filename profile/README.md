@@ -27,8 +27,9 @@ Le projet repose sur une architecture modulaire combinant plusieurs technologies
 - **Application Web** : ReactJS 🌐
 - **Application Mobile** : Flutter 📱
 
-![Architecture Diagram](https://your-image-link.com)
-
+<div align="center">
+    <img src="https://github.com/YNOV-HACKATON-2025/.github/blob/main/Class.png" width="500">
+</div>
 ---
 
 ## 🛠️ Installation & Déploiement
